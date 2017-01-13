@@ -8,7 +8,7 @@ This code is an extension of the online Variational Bayes for LDA code developed
 The original code is located in the following Git Hub repository:  
 https://github.com/blei-lab/onlineldavb
 
-Author: Kriste Krstovski  
+Kriste Krstovski  
   
   
 The GPL license is inherited from that code.  
