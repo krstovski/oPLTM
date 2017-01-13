@@ -1,10 +1,11 @@
-# oPLTM
+# online Polylingual Topic Model (oPLTM)
 
 
 ## License
 
-This code is an extension of the online Variational Bayes for LDA code developed by Matthew D. Hoffman (mdhoffma@cs.princeton.edu) which was presented in the paper "Online Learning for Latent Dirichlet Allocation" by Matthew D. Hoffman, David M. Blei, and Francis Bach, NIPS 2010.
-The original code is located in the following Git Hub repository:
+This code is an extension of the online Variational Bayes for LDA code developed by Matthew D. Hoffman (mdhoffma@cs.princeton.edu) which was presented in the paper:  
+"Online Learning for Latent Dirichlet Allocation" by Matthew D. Hoffman, David M. Blei, and Francis Bach, NIPS 2010.  
+The original code is located in the following Git Hub repository:  
 https://github.com/blei-lab/onlineldavb
 
 The GPL license is inherited from that code.
